@@ -7,7 +7,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"github.com/wuhewuhe/bybit.go.api/models"
+	"github.com/Anruin/bybit.go.api/models"
 	"io"
 	"log"
 	"net/http"
